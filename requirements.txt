@@ -1,0 +1,12 @@
+langchain-core
+langchain-community
+datasets
+sentence-transformers
+chromadb
+streamlit
+python-dotenv
+torch
+transformers
+accelerate
+tf-keras
+sentencepiece
