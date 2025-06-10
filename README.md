@@ -19,7 +19,7 @@ cd stackoverflow-qa-system
 # Install dependencies  
 conda create -n langchain python=3.10 -y
 conda activate langchain
-pip install -r requirements_lite.txt
+pip install -r requirements.txt
 
 # Run
 python main.py
