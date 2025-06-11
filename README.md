@@ -13,12 +13,12 @@ A RAG-based question-answering system using ChatGLM and Stack Overflow data.
 
 ```bash
 # Clone and setup
-git clone https://github.com/YOUR_USERNAME/stackoverflow-qa-system.git
+git clone https://github.com/sizhe-chen11/stackoverflow-qa-system.git
 cd stackoverflow-qa-system
 
 # Install dependencies  
-conda create -n langchain python=3.10 -y
-conda activate langchain
+conda create -n qa-system python=3.10 -y
+conda activate qa-system
 pip install -r requirements.txt
 
 # Run
